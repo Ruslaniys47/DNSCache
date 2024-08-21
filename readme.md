@@ -5,7 +5,12 @@ DNSCache
 
 ## Сборка
 
-###Ubuntu 24.04
+Получение исходного кода:
+```bash
+git clone https://github.com/Ruslaniys47/DNSCache.git
+```
+
+## Ubuntu 24.04
 
 1. Установка зависимостей:
     ```bash
