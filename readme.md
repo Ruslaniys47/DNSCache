@@ -23,9 +23,9 @@ DNSCache
     ./DNSCache 
     ```
 # Стиль кода
-По умолчанию [Code Style Guidelines | WebKit](https://webkit.org/code-style-guidelines/)
-Форматирование .clang-format webkit
+  По умолчанию [Code Style Guidelines | WebKit](https://webkit.org/code-style-guidelines/)
+  Форматирование .clang-format webkit
 
 # Сложность методов update и resolve
-update(): поиск, добавление, удаление имеют сложность О(1)
-resolve(): поиск имеет сложность О(1)
+  update(): поиск, добавление, удаление имеют сложность О(1).  
+  resolve(): поиск имеет сложность О(1).
