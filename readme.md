@@ -28,8 +28,8 @@ git clone https://github.com/Ruslaniys47/DNSCache.git
     ./DNSCache 
     ```
 # Стиль кода
-  По умолчанию [Code Style Guidelines | WebKit](https://webkit.org/code-style-guidelines/)
-  Форматирование .clang-format webkit
+  По умолчанию [Code Style Guidelines | WebKit](https://webkit.org/code-style-guidelines/).  
+  Форматирование .clang-format webkit.
 
 # Сложность методов update и resolve
   update(): поиск, добавление, удаление имеют сложность О(1).  
